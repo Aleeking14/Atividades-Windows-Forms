@@ -1,0 +1,8 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\bin\Debug\Atividade01.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\bin\Debug\Atividade01.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\bin\Debug\Atividade01.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\obj\Debug\Atividade01.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\obj\Debug\Atividade01.MainForm.resources
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\obj\Debug\Atividade01.csproj.GenerateResource.Cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\obj\Debug\Atividade01.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade01\Atividade01\obj\Debug\Atividade01.pdb
