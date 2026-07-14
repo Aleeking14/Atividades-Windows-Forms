@@ -1,0 +1,8 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\bin\Debug\Atividade02 Sistema Vendas.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\bin\Debug\Atividade02 Sistema Vendas.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\bin\Debug\Atividade02 Sistema Vendas.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\obj\Debug\Atividade02 Sistema Vendas.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\obj\Debug\Atividade02_Sistema_Vendas.MainForm.resources
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\obj\Debug\Atividade02 Sistema Vendas.csproj.GenerateResource.Cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\obj\Debug\Atividade02 Sistema Vendas.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade02 Sistema Vendas\Atividade02 Sistema Vendas\obj\Debug\Atividade02 Sistema Vendas.pdb
