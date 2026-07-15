@@ -1,0 +1,8 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\bin\Debug\Atividade03 Boletim Escolar.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\bin\Debug\Atividade03 Boletim Escolar.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\bin\Debug\Atividade03 Boletim Escolar.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\obj\Debug\Atividade03 Boletim Escolar.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\obj\Debug\Atividade03_Boletim_Escolar.MainForm.resources
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\obj\Debug\Atividade03 Boletim Escolar.csproj.GenerateResource.Cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\obj\Debug\Atividade03 Boletim Escolar.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade03 Boletim Escolar\Atividade03 Boletim Escolar\obj\Debug\Atividade03 Boletim Escolar.pdb
