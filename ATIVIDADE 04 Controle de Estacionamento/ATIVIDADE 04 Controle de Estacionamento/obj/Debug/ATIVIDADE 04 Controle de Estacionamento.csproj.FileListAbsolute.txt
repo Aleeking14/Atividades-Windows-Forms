@@ -1,0 +1,8 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\bin\Debug\ATIVIDADE 04 Controle de Estacionamento.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\bin\Debug\ATIVIDADE 04 Controle de Estacionamento.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\bin\Debug\ATIVIDADE 04 Controle de Estacionamento.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\obj\Debug\ATIVIDADE 04 Controle de Estacionamento.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\obj\Debug\ATIVIDADE_04_Controle_de_Estacionamento.MainForm.resources
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\obj\Debug\ATIVIDADE 04 Controle de Estacionamento.csproj.GenerateResource.Cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\obj\Debug\ATIVIDADE 04 Controle de Estacionamento.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\ATIVIDADE 04 Controle de Estacionamento\ATIVIDADE 04 Controle de Estacionamento\obj\Debug\ATIVIDADE 04 Controle de Estacionamento.pdb
