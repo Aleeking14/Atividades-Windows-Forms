@@ -1,0 +1,10 @@
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\obj\Debug\Atividade 05 Cadastro de clientes.csprojResolveAssemblyReference.cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\obj\Debug\Atividade_05_Cadastro_de_clientes.MainForm.resources
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\obj\Debug\Atividade 05 Cadastro de clientes.csproj.GenerateResource.Cache
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\bin\Debug\Atividade 05 Cadastro de clientes.exe.config
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\bin\Debug\Atividade 05 Cadastro de clientes.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\bin\Debug\Atividade 05 Cadastro de clientes.pdb
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\bin\Debug\System.Memory.dll
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\obj\Debug\Atividade 05 Cadastro de clientes.exe
+C:\Users\Alex Junio\OneDrive\Documents\SharpDevelop Projects\Atividade 05 Cadastro de clientes\Atividade 05 Cadastro de clientes\obj\Debug\Atividade 05 Cadastro de clientes.pdb
